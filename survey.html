@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Comic+Relief:wght@400;700&display=swap" rel="stylesheet">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Feedback</title>
+    <link rel="stylesheet" href="styles2.css" />
+    
+        </head>
+        <body>
+            <nav><div class="navbar-container">
+                <a href="index.html" class="logo">
+                    <img src="images/LOGO.svg" alt="Twirl of Love Logo" width="60" height="60" />
+                  </a>
+                <ul class="nav-links">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="Delivery.html">Delivery</a></li>
+                    <li><a href="reservation.html">Reservation</a></li>
+                    <li><a href="contactus.html">Contact us</a></li>
+                    <li><a href="aboutus.html">About us</a></li>
+                    <li><a href="gallery.html">Menu</a></li>
+                    <li><a href="services.html">Our Services</a></li>
+                    <li><a href="faq.html">FAQ</a></li>
+                    <li><a href="reviews.html">Reviews</a></li>
+                </ul>
+
+            
+            <select class="nav-select" onchange="location = this.value;">
+                
+                <option selected disabled>Home</option>
+                <option value="Delivery.html">Delivery</option>
+                <option value="reservation.html">Reservation</option>
+                <option value="contactus.html">Contact us</option>
+                <option value="aboutus.html">About us</option>
+                <option value="gallery.html">Menu</option>
+                <option value="services.html">Our Services</option>
+                <option value="faq.html">Help Center</option>
+                <option value="reviews.html">Reviews</option>
+              </select>
+            
+            </nav>
+        </div>
+            <section class="survey-container">
+                <h2>We'd love your feedback!</h2>
+                <form action="#" method="post">
+                <label for="name">Your Name:</label>
+                <input type="text" id="name" placeholder="name" required></input>
+                <label for="email">Your Email:</label>
+                <input type="email" id="email" name="email" placeholder="name@example.com" required>
+                <label for="experience">How was your experience?</label>
+    <select id="experience" name="experience" required>
+      <option value="">Select one</option>
+      <option value="excellent">Excellent :)</option>
+      <option value="good">Good :|</option>
+      <option value="average">Average :\</option>
+      <option value="poor">Poor :(</option>
+    </select>
+    <label for="recommendation">Would you recommend us to a friend?</label>
+    <select id="recommendation" name="recommendation" required>
+        <option value="">Select one</option>
+        <option value="yes">YES!</option>
+        <option value="no">no:(</option>
+    </select>
+    <label for="question">How did you hear about us?</label>
+    <select id="question" name="question" required>
+        <option value="">Select one</option>
+        <option value="tiktok">Tiktok</option>
+        <option value="instagram">Instagram</option>
+        <option value="other">Other</option>
+    </select>
+    <label for="favorite">What's your favorite dish?</label>
+    <input type="text" id="favorite" name="favorite" placeholder=" Spicy Ramen" required>
+    <label for="suggestions">Any suggestions for us?</label>
+    <textarea id="suggestions" name="suggestions" rows="4" placeholder="We'd love to hear your thoughts..."></textarea>
+    <button type="submit">Submit Feedback</button>
+</form>
+            </section>
+        </body>

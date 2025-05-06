@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 676.25 503.6">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #4f4a4c;
+        font-family: ArialRoundedMTBold, 'Arial Rounded MT Bold';
+        font-size: 103px;
+      }
+
+      .cls-2 {
+        font-family: MonotypeCorsiva, 'Monotype Corsiva';
+        font-size: 243.84px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #784dc3;
+      }
+
+      .cls-3 {
+        stroke: #53329b;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        fill: #fff;
+        stroke: #000;
+      }
+
+      .cls-6 {
+        letter-spacing: .11em;
+      }
+
+      .cls-5 {
+        fill: #7a541e;
+        stroke: #fff;
+      }
+
+      .cls-7 {
+        letter-spacing: -.01em;
+      }
+    </style>
+  </defs>
+  <circle class="cls-4" cx="340.78" cy="251.8" r="251.3"/>
+  <text class="cls-2" transform="translate(0 302.08) scale(1.43 1.12)"><tspan x="0" y="0">T</tspan></text>
+  <text class="cls-2" transform="translate(174.3 278.91) scale(1.1 1)"><tspan x="0" y="0">wirl</tspan></text>
+  <text class="cls-1" transform="translate(196.04 368.06) scale(.87 1)"><tspan x="0" y="0">o</tspan><tspan class="cls-6" x="62.21" y="0">f</tspan><tspan x="108.02" y="0" xml:space="preserve"> l</tspan><tspan class="cls-7" x="161.68" y="0">ov</tspan><tspan x="277" y="0">e</tspan></text>
+  <path class="cls-5" d="M675.49,83.4l-128.61,39.61c-.66.22-1.45-.38-1.77-1.33h0c-.32-.96-.05-1.91.61-2.13l127.6-42.64c.66-.22,1.45.38,1.77,1.33h0c.32.96,1.06,4.94.4,5.16Z"/>
+  <path class="cls-5" d="M665.76,63.31l-115.3,69.4c-.58.37-1.49-.02-2.03-.87h0c-.54-.85-.5-1.84.08-2.21l113.59-72.09c.58-.37,1.49.02,2.03.87h0c.54.85,2.22,4.54,1.63,4.91Z"/>
+  <path class="cls-3" d="M569.08,95.01l11.81,7.37,2.06-11.05c.13-.7.14-1.43.03-2.15l-.15-.97c-.12-.76-.53-1.45-1.13-1.89h0s-1.6-1.18-1.6-1.18c-1.66-.27-3.29.41-4.25,1.88l-.3.91-.17,2.03c-.73-.39-1.46-.78-2.19-1.16-.54-.16-1.65-.41-2.92-.06,0,0-.02,0-.02,0-1.04.29-1.86,1.11-2.26,2.19l-.09.24c.01.59.02,1.19.03,1.78l1.15,2.05Z"/>
+</svg>
